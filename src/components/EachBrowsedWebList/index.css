@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.eachListStyling {
+  border: 2px solid black;
+  margin: 0;
+  padding: 0;
+}
+
+.alignStyling {
+  margin-left: 20px;
+}
+.timeStyling {
+  color: #475569;
+}
+.urlStyling {
+  color: #64748b;
+}
+
+.detailsContainer {
+  display: flex;
+  justify-content: flex-start;
+  width: 40%;
+  align-items: center;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.logoStyling {
+  height: 35px;
+  width: 35px;
+  border-radius: 15px;
+}
